@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Osama Ahmed</h1>
-<h3 align="center">A passionate software engineer from egypt with good insights of Data Structures and Design Patterns. When asked, I always see myself as a .Net Developer because of my affinity for the Microsoft platform, though I do pride myself on continually learning new languages, paradigms, methodologies, and topics. Currently I hold 5 x certifications: - Microsoft Certified Azure Developer Associate - Scrum Foundation Professional Certificate (SFPC) - EMC Academic Associate, Data Science and Big Data Analytics - EMC Academic Associate, Cloud Infrastructure and Services - MCSD Certification</h3>
-
+<h3 >A passionate software engineer from egypt with good insights of Data Structures and Design Patterns. When asked, I always see myself as a .Net Developer because of my affinity for the Microsoft platform, though I do pride myself on continually learning new languages, paradigms, methodologies, and topics. <br/><br/>Currently I hold 5 x certifications: <br/>
+  <ul>
+ <li>Microsoft Certified Azure Developer Associate </li>
+ <li>Scrum Foundation Professional Certificate (SFPC) </li>
+ <li>EMC Academic Associate, Data Science and Big Data Analytics </li>
+ <li>EMC Academic Associate, Cloud Infrastructure and Services </li>
+ <li>MCSD Certification</li>
+</ul></h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=osama94&label=Profile%20views&color=0e75b6&style=flat" alt="osama94" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=osama94" alt="osama94" /></a> </p>
