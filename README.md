@@ -2,6 +2,7 @@
 <h3 >A passionate software engineer from egypt with good insights of Data Structures and Design Patterns. When asked, I always see myself as a .Net Developer because of my affinity for the Microsoft platform, though I do pride myself on continually learning new languages, paradigms, methodologies, and topics. <br/><br/>Currently I hold 5 x certifications: <br/>
   <ul>
  <li>Microsoft Certified Azure Developer Associate </li>
+ <li>Pofessional Scrum Master™ I</li>
  <li>Scrum Foundation Professional Certificate (SFPC) </li>
  <li>EMC Academic Associate, Data Science and Big Data Analytics </li>
  <li>EMC Academic Associate, Cloud Infrastructure and Services </li>
