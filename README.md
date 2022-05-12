@@ -2,11 +2,11 @@
 <h3 >A passionate software engineer from egypt with good insights of Data Structures and Design Patterns. When asked, I always see myself as a .Net Developer because of my affinity for the Microsoft platform, though I do pride myself on continually learning new languages, paradigms, methodologies, and topics. <br/><br/>Currently I hold 6 x certifications : <br/>
   <ul>
  <li>Microsoft Certified Azure Developer Associate <a  href="https://www.credly.com/badges/a114a2cd-7d4b-4011-b3c6-e38e0963610c/public_url" traget="_blank">View</a> </li>
- <li>Pofessional Scrum Master™ I</li>
- <li>Scrum Foundation Professional Certificate (SFPC) </li>
- <li>EMC Academic Associate, Data Science and Big Data Analytics </li>
- <li>EMC Academic Associate, Cloud Infrastructure and Services </li>
- <li>MCSD Certification</li>
+ <li>Pofessional Scrum Master™ I <a  href="https://www.credly.com/badges/b380d859-99fd-4880-a054-7c1b08cafbeb/public_url" traget="_blank">View</a></li>
+ <li>Scrum Foundation Professional Certificate (SFPC) <a  href="https://www.credly.com/badges/fb23a901-c519-4717-a1bd-61a62830a7a7/public_url" traget="_blank">View</a></li>
+ <li>EMC Academic Associate, Data Science and Big Data Analytics <a  href="https://www.certmetrics.com/dell/public/verification.aspx" traget="_blank">View</a></li>
+ <li>EMC Academic Associate, Cloud Infrastructure and Services <a  href="https://www.certmetrics.com/dell/public/verification.aspx" traget="_blank">View</a></li>
+ <li>MCSD Certification <a  href="" traget="_blank">View</a></li>
 </ul></h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=osama94&label=Profile%20views&color=0e75b6&style=flat" alt="osama94" /> </p>
 
